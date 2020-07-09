@@ -1,5 +1,6 @@
 # Study of Github
-Testando implementação do vercel com github
+
+Testing github implementation with vercel
 
 ## First step
 
@@ -16,3 +17,6 @@ Testando implementação do vercel com github
 - [ ] push/pull
 - [ ] Readme
 
+# You can see this page in action in
+
+ [Result here] (https://this-is-test.vercel.app/)
