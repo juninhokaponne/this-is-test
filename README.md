@@ -13,9 +13,9 @@ Testing github implementation with vercel
 ## I learn
 
 - [x] commit
-- [ ] branch
-- [ ] push/pull
-- [ ] Readme
+- [x] branch
+- [x] push/pull
+- [x] Readme
 
 # You can see this page in action in
 
