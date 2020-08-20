@@ -8,6 +8,7 @@ Testing github implementation with vercel
 2. to learn about _branch_
 3. to learn about _push/pull_
 4. to learn about _README_
+5. to learn about _merge_
 
 
 ## I learn
@@ -16,6 +17,7 @@ Testing github implementation with vercel
 - [x] branch
 - [x] push/pull
 - [x] Readme
+- [ ] Merge
 
 # You can see this page in action in
 
