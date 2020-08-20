@@ -13,11 +13,11 @@ Testing github implementation with vercel
 
 ## I learn
 
-- [x] commit
-- [x] branch
-- [x] push/pull
-- [x] Readme
-- [ ] Merge
+1. - [x] commit
+2. - [x] branch
+3. - [x] push/pull
+4. - [x] Readme
+5. - [ ] Merge
 
 # You can see this page in action in
 
